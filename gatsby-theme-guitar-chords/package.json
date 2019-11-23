@@ -2,5 +2,16 @@
   "name": "gatsby-theme-guitar-chords",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@mdx-js/mdx": "^1.5.1",
+    "@mdx-js/react": "^1.5.1",
+    "gatsby-plugin-mdx": "^1.0.57",
+    "gatsby-source-filesystem": "^2.1.38",
+    "mdx-utils": "^0.2.0",
+    "mkdirp": "^0.5.1",
+    "prism-react-renderer": "^1.0.2",
+    "react-guitar-chord": "^1.1.0",
+    "react-live": "^2.2.1"
+  }
 }
