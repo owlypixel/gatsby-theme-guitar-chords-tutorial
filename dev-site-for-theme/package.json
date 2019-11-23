@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "name": "dev-site-for-theme",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "gatsby": "^2.18.2",
+    "gatsby-theme-guitar-chords": "*",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  },
+  "scripts": {
+    "develop": "gatsby develop"
+  }
+}

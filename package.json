@@ -1,0 +1,4 @@
+{
+  "private": true,
+  "workspaces": ["dev-site-for-theme", "gatsby-theme-guitar-chords"]
+}
